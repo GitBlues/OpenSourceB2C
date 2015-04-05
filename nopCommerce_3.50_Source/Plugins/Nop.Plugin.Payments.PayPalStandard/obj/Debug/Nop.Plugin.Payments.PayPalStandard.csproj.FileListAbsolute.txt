@@ -1,0 +1,10 @@
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

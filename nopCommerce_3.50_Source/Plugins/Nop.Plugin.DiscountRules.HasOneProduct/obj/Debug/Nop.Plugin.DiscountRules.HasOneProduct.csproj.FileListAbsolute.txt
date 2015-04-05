@@ -1,0 +1,10 @@
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\Configure.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Description.txt
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\web.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Views\DiscountRulesHasOneProduct\ProductAddPopup.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\logo.jpg
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\DiscountRules.HasOneProduct\Nop.Plugin.DiscountRules.HasOneProduct.pdb
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.DiscountRules.HasOneProduct\obj\Debug\Nop.Plugin.DiscountRules.HasOneProduct.pdb

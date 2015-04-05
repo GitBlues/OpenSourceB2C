@@ -1,0 +1,11 @@
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\Configure.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentPayPalDirect\PaymentInfo.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojResolveAssemblyReference.cache
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb

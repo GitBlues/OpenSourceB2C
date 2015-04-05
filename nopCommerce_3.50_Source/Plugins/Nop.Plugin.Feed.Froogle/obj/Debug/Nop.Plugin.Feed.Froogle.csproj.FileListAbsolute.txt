@@ -1,0 +1,11 @@
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Views\FeedFroogle\Configure.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Description.txt
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\web.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Content\styles.css
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\logo.jpg
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Feed.Froogle\Nop.Plugin.Feed.Froogle.pdb
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.csprojResolveAssemblyReference.cache
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Feed.Froogle\obj\Debug\Nop.Plugin.Feed.Froogle.pdb

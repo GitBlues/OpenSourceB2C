@@ -1,0 +1,12 @@
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\Configure.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\EditPopup.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\_CreateOrUpdate.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Views\ShippingByWeight\AddPopup.cshtml
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\web.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Description.txt
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\logo.jpg
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll.config
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
+F:\迅雷下载\雅虎下载\nopCommerce_3.50_Source\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
